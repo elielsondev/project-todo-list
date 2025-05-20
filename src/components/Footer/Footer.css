@@ -1,0 +1,22 @@
+/* Paleta de cores: */
+/* #4180ab */
+/* #ffffff */
+/* #8ab3cf */
+/* #bdd1de */
+/* #e4ebf0 */
+
+#footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  padding: 0.7rem;
+  background-color: #4180ab;
+  color: #ffffff;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: #bdd1de;
+}
